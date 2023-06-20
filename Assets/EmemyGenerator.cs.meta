@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: 5c71f9519f6026944a8146393e103ddb
+guid: bac05db098c42c4408302702a6c93be9
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - MyShot_Pre: {fileID: 2659420246595910119, guid: 32b1a4c057f7bd84ca273b0ec809dee7, type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
